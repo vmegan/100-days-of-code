@@ -30,7 +30,7 @@
 
 **Thoughts:**  Took me a while to find the right code to have the tweet button display. I am having a hard time figuring out exactly what to google to get the answers that I need.
 
-**Link to work:** [Random Quote Generator]http://codepen.io/meghanabowen/pen/JEoKOK
+**Link to work:** [Random Quote Generator]https://gomix.com/#!/project/phantom-tortellini
 
 ### Day 5: January 08, 2017
 
