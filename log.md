@@ -39,3 +39,11 @@
 **Thoughts:**  Figured out how to remove the default URL from showing up on the tweet, but struggling with getting the actual quote to show up on the text area of the tweet.
 
 **Link to work:** [Random Quote Generator]https://gomix.com/#!/project/phantom-tortellini
+
+### Day 6: January 09, 2017
+
+**Today's Progress**: Finished the random quote generator
+
+**Thoughts:**  Tweet button finally gets the quote and displays it. The background color changes when new quote is generated. This was a challenging project, but gave me more insight into how to look for the information I need.
+
+**Link to work:** [Random Quote Generator]https://gomix.com/#!/project/phantom-tortellini
