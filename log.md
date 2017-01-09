@@ -28,7 +28,7 @@
 
 **Today's Progress**: Added a tweet button to the quote generator
 
-**Thoughts:**  Took me a while to find the right code to have the tweet button display. I am having a hard time figuring out exactly what to google to get the answers that I need. Moved from codepen to gomix for better online IDE flexibility.
+**Thoughts:**  Took some time to find the right code to have the tweet button display. I am having a hard time figuring out exactly what to google to get the answers that I need. Moved from codepen to gomix for better online IDE flexibility.
 
 **Link to work:** [Random Quote Generator]https://gomix.com/#!/project/phantom-tortellini
 
