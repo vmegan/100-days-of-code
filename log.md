@@ -18,7 +18,7 @@
 
 ### Day 3: January 06, 2017
 
-**Today's Progress**: Worked on getting data from APIs to show up on the page
+**Today's Progress**: Worked on getting data from APIs to display on the page
 
 **Thoughts:**  Spent an hour trying to get the API to work, only to realize that my code was right, but the API was not working with it. Got it to finally work with another API. Also moved my code to Gomix since codepen can be a bit temperamental.
 
