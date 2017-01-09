@@ -20,7 +20,7 @@
 
 **Today's Progress**: Worked on getting data from APIs to display on the page
 
-**Thoughts:**  Spent an hour trying to get the API to work, only to realize that my code was right, but the API was not working with it. Got it to finally work with another API. Also moved my code to Gomix since codepen can be a bit temperamental.
+**Thoughts:**  Spent an hour trying to get the API to work, only to realize that my code was right, but the API was not working with it. Got it to finally work with a different API. Also moved my code to Gomix since codepen can be a bit temperamental.
 
 **Link to work:** [Random Quote Generator]http://codepen.io/meghanabowen/pen/JEoKOK
 
