@@ -47,3 +47,18 @@
 **Thoughts:**  Tweet button finally gets the quote and displays it. The background color changes when new quote is generated. This was a challenging project, but gave me more insight into how to look for the information I need.
 
 **Link to work:** [Random Quote Generator]https://gomix.com/#!/project/phantom-tortellini
+
+### Day 7: January 10, 2017
+
+**Today's Progress**: Started Portfolio project
+
+**Thoughts:**  Worked on uploading screenshots of my work and laying the foundation for my portfolio
+**Link to work:** Local File - Will Upload when finished.
+
+### Day 8: January 11, 2017
+
+**Today's Progress**: Changed images and updated links
+
+**Thoughts:**  Styled the work screenshots a little and changed the data titles and alt attributes.
+
+**Link to work:**  Local File - Will Upload when finished.
