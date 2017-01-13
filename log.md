@@ -62,3 +62,11 @@
 **Thoughts:**  Styled the work screenshots a little and changed the data titles and alt attributes.
 
 **Link to work:**  Local File - Will Upload when finished.
+
+### Day 8: January 11, 2017
+
+**Today's Progress**: Added content and changed styling
+
+**Thoughts:**  Added a personal logo and changed the layout around. Having a bit of trouble styling the page. Usually don't have this much trouble, so looked for some inspiration. Still needs a lot of work, but I am happy enough with the progress
+
+**Link to work:**  Local File - Will Upload when finished.
