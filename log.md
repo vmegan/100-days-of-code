@@ -63,10 +63,18 @@
 
 **Link to work:**  Local File - Will Upload when finished.
 
-### Day 8: January 11, 2017
+### Day 9: January 12, 2017
 
 **Today's Progress**: Added content and changed styling
 
 **Thoughts:**  Added a personal logo and changed the layout around. Having a bit of trouble styling the page. Usually don't have this much trouble, so looked for some inspiration. Still needs a lot of work, but I am happy enough with the progress
+
+**Link to work:**  Local File - Will Upload when finished.
+
+### Day 10: January 13, 2017
+
+**Today's Progress**: Added content and changed more styling
+
+**Thoughts:**  Added a skills and changed the layout again. Need some inspiration. Have to design icons and place on page
 
 **Link to work:**  Local File - Will Upload when finished.
