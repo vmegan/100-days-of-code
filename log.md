@@ -78,3 +78,11 @@
 **Thoughts:**  Added a skills and changed the layout again. Need some inspiration. Have to design icons and place on page
 
 **Link to work:**  Local File - Will Upload when finished.
+
+### Day 11: January 14, 2017
+
+**Today's Progress**: Added responsive content
+
+**Thoughts:**  Added icons which will not line up right. Not sure if it is foundation or something I didn't set up right. Need to resize project screenshots and wrap up this project tomorrow.
+
+**Link to work:**  Local File - Will Upload when finished.
