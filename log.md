@@ -86,3 +86,11 @@
 **Thoughts:**  Added icons which will not line up right. Not sure if it is foundation or something I didn't set up right. Need to resize project screenshots and wrap up this project tomorrow.
 
 **Link to work:**  Local File - Will Upload when finished.
+
+### Day 12: January 15, 2017
+
+**Today's Progress**: Resized project images
+
+**Thoughts:**  Still need to finish resizing images and figure out how to add a button that says "Go to Site" to show up on the animation
+
+**Link to work:**  Local File - Will Upload when finished.
