@@ -102,3 +102,11 @@
 **Thoughts:**  Worked on images and changed the grid structure again.
 
 **Link to work:**  Local File - Will Upload when finished.
+
+### Day 14: January 18, 2017
+
+**Today's Progress**: Finally finished portfolio project
+
+**Thoughts:**  Need to work on responsiveness for the tablet, but for now, it is good enough to host online. Will need to work on the skills section to achieve some sort of uniformity.
+
+**Link to work:**  Local File - Will Upload when finished.
