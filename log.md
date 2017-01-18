@@ -94,3 +94,11 @@
 **Thoughts:**  Still need to finish resizing images and figure out how to add a button that says "Go to Site" to show up on the animation
 
 **Link to work:**  Local File - Will Upload when finished.
+
+### Day 13: January 17, 2017
+
+**Today's Progress**: Resized project images and fixed animation content styling
+
+**Thoughts:**  Worked on images and changed the grid structure again.
+
+**Link to work:**  Local File - Will Upload when finished.
