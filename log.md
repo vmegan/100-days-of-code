@@ -110,3 +110,11 @@
 **Thoughts:**  Need to work on responsiveness for the tablet, but for now, it is good enough to host online. Will need to work on the skills section to achieve some sort of uniformity.
 
 **Link to work:**  Local File - Will Upload when finished.
+
+### Day 15: January 19, 2017
+
+**Today's Progress**: Laid out foundation for Wiki Viewer on Free code camp
+
+**Thoughts:**  Laid out HTML and CSS. Cannot understand a word of media wiki API for the moment.
+
+**Link to work:**  http://codepen.io/meghanabowen/pen/ZLepdX
