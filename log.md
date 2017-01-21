@@ -118,3 +118,11 @@
 **Thoughts:**  Laid out HTML and CSS. Cannot understand a word of media wiki API for the moment.
 
 **Link to work:**  http://codepen.io/meghanabowen/pen/ZLepdX
+
+### Day 15: January 20, 2017
+
+**Today's Progress**: Attempted understanding docs for media wiki
+
+**Thoughts:**   still cannot understand a word of media wiki API. Looking for other examples
+
+**Link to work:**  http://codepen.io/meghanabowen/pen/ZLepdX
