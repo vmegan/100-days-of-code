@@ -126,3 +126,11 @@
 **Thoughts:**   still cannot understand a word of media wiki API. Looking for other examples
 
 **Link to work:**  http://codepen.io/meghanabowen/pen/ZLepdX
+
+### Day 15: January 21, 2017
+
+**Today's Progress**: Attempted understanding docs for media wiki - continued
+
+**Thoughts:**   still cannot understand a word of media wiki API. Looking for other examples
+
+**Link to work:**  http://codepen.io/meghanabowen/pen/ZLepdX
