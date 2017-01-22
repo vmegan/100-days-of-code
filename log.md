@@ -119,7 +119,7 @@
 
 **Link to work:**  http://codepen.io/meghanabowen/pen/ZLepdX
 
-### Day 15: January 20, 2017
+### Day 16: January 20, 2017
 
 **Today's Progress**: Attempted understanding docs for media wiki
 
@@ -127,7 +127,7 @@
 
 **Link to work:**  http://codepen.io/meghanabowen/pen/ZLepdX
 
-### Day 15: January 21, 2017
+### Day 17: January 21, 2017
 
 **Today's Progress**: Attempted understanding docs for media wiki - continued
 
