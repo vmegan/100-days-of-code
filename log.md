@@ -134,3 +134,11 @@
 **Thoughts:**   still cannot understand a word of media wiki API. Looking for other examples
 
 **Link to work:**  http://codepen.io/meghanabowen/pen/ZLepdX
+
+### Day 18: January 22, 2017
+
+**Today's Progress**: Learnt basics of angular js on phone app
+
+**Thoughts:**   really sick and had a migraine. Did the minimum I could
+
+**Link to work:**  
