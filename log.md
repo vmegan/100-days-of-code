@@ -142,3 +142,11 @@
 **Thoughts:**   really sick and had a migraine. Did the minimum I could
 
 **Link to work:**  
+
+### Day 19: January 24, 2017
+
+**Today's Progress**: Did enki exercises and worked on wiki project
+
+**Thoughts:**  mostly tried understanding documentation
+
+**Link to work:**  
